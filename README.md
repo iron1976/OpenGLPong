@@ -1,7 +1,7 @@
 # What Is This?
 This is just a pong game that i made.</br>
 
-# OpenGLPong
+# More Information
 My first experience using OpenGL.</br>
 
 I used glfw,glew Api's from OpenGL.</br>
